@@ -1,6 +1,8 @@
 # Potion Utils
 
-Potion Utils is a projec made to supply code to *[the potion programming language](https://github.com/perl11/potion)*.
+Potion Utils is a projec aimed to supply code and utilities for *[the potion programming language](https://github.com/perl11/potion)*.
+
+Not specifically as means of making the language used but as a fun project.
 
 It is currently in development and new modules will be added.
 

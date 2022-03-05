@@ -1,11 +1,23 @@
-# Potion-lang Autoinstaller
-An autoinstaller for the potion programming language
+# Potion Utils
 
-This bash script automatically installs the potion programming language system-wide in any linux distribution
+Potion Utils is a projec made to supply code to *[the potion programming language](https://github.com/perl11/potion)*.
 
-*[potion repo](https://github.com/perl11/potion)*
+It is currently in development and new modules will be added.
 
-## To use : 
+Next up is :
+
+ * Vim plugin for potion syntax highlighting
+ * Potion custom documentation to learn and use the language
+ * Potion examples
+ * Potion in action
+
+For now we have
+
+## Potion installer for GNU-Linux
+
+Bash script to automatically install potion in any linux distro
+
+### To use : 
 `git clone https://github.com/lae-laps/potion-autoinstall/edit/main/README.md`    
 
 `cd potion-autoinstall`  

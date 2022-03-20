@@ -43,3 +43,7 @@ Bash script to automatically install potion in any linux distro
   \../::/
    \/::/
    ```
+   
+  ## Adding potion as a recognized language
+  
+  This is just a side project, but might become something more

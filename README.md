@@ -20,9 +20,15 @@ For now we have
 Bash script to automatically install potion in any linux distro
 
 ### To use : 
+clone this repo: 
+
 `git clone https://github.com/lae-laps/potion-utils/`    
 
+cd into the directory: 
+
 `cd potion-autoinstall/potion-installer/`  
+
+run the installation script: 
 
 `sudo bash potion-autoinstall.sh`     
 

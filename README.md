@@ -52,4 +52,4 @@ run the installation script:
    
   ## Adding potion as a recognized language
   
-  This is just a side project, but might become something more
+  This is just a side project, but might become something more in the future.
